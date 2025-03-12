@@ -1,0 +1,9 @@
+7f92a0b CBON WEEY
+1b6d100 Deuxieme tentative
+47a349c Premier tentative
+b8ea36b YA RABI
+eb9aef5 app.py
+22800c3 Deuxieme
+29e3e13 Ajout de l'affiche de la date et lheure
+6a8e47c Ajout du fichier app.py
+8694afa Mise a jour readme
