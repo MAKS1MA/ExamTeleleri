@@ -1,1 +1,1 @@
-print(Hello, Git)
+print("WAKET TA TAWA")
