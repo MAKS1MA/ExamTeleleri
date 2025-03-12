@@ -1,2 +1,1 @@
-print("WAKET TA TAWA")
-print ("Bienvenue ya youta")
+print(salut)
